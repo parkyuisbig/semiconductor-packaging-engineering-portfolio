@@ -12,7 +12,7 @@ Compression molding의 edge void와 chip offset을 열–유동–경화 문제�
 
 ## 약 500자
 
-SK하이닉스 P&T 양산기술 직무를 준비하며 compression molding의 edge void와 chip offset 문제를 수행했습니다. 질량보존·힘 평형·열경화 kinetics로 gel–vacuum–fill margin을 정의했습니다. Vacuum/vent 열화, EMC 이력, 표면거칠기와 wetting/holding을 경쟁 가설로 세우고, synthetic data의 wafer map·MSA·chamber/material block DOE와 bootstrap으로 검증했습니다. 그 결과 heater-zone 불균일과 evacuation margin 감소를 가장 강한 가설로 좁혔습니다. 측정 불확실도와 warpage·cycle time을 포함한 robust process window도 도출했습니다. 수치를 실제 양산 성과로 과장하지 않고 raw waveform, crossover split, reference·requalification까지 제안하며 물리·데이터·검증을 연결했습니다.
+반도체 Package & Test 양산기술 직무를 준비하며 compression molding의 edge void와 chip offset 문제를 수행했습니다. 질량보존·힘 평형·열경화 kinetics로 gel–vacuum–fill margin을 정의했습니다. Vacuum/vent 열화, EMC 이력, 표면거칠기와 wetting/holding을 경쟁 가설로 세우고, synthetic data의 wafer map·MSA·chamber/material block DOE와 bootstrap으로 검증했습니다. 그 결과 heater-zone 불균일과 evacuation margin 감소를 가장 강한 가설로 좁혔습니다. 측정 불확실도와 warpage·cycle time을 포함한 robust process window도 도출했습니다. 수치를 실제 양산 성과로 과장하지 않고 raw waveform, crossover split, reference·requalification까지 제안하며 물리·데이터·검증을 연결했습니다.
 
 ## 수치 포함형 문장
 
@@ -21,5 +21,5 @@ SK하이닉스 P&T 양산기술 직무를 준비하며 compression molding의 ed
 ## 표현 원칙
 
 - 사용: 분석했다, 재정의했다, 가설을 좁혔다, synthetic scenario에서 재현했다, 개선 후보를 제안했다.
-- 금지: SK하이닉스 공정을 개선했다, 양산 수율을 올렸다, 표면거칠기가 원인임을 증명했다.
+- 금지: 특정 기업의 공정을 개선했다, 양산 수율을 올렸다, 표면거칠기가 원인임을 증명했다.
 - 숫자를 쓸 때는 같은 문단에 `synthetic`, `project scenario` 또는 `실제 Fab 데이터 아님`을 함께 표시한다.

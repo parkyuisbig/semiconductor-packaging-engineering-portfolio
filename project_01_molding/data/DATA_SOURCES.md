@@ -6,7 +6,7 @@
 
 > 본 데이터는 공개 문헌과 공정 메커니즘을 참고하여 프로젝트 검증 목적으로 생성한 synthetic engineering dataset이다.
 
-- 실제 SK하이닉스/Fab 데이터: 사용하지 않음
+- 실제 Fab/기업 데이터: 사용하지 않음
 - 실제 생산 recipe/spec: 사용하지 않음
 - Generator seed: `20260818`
 - Physics structure: thermal/cure/vacuum margin, equipment drift, EMC genealogy, surface/holding trade-off
@@ -36,4 +36,3 @@
 - Vacuum / air pocket: https://doi.org/10.1016/j.microrel.2014.12.001
 - Roughness / wetting: https://doi.org/10.1021/j150474a015
 - Thermal contact conductance: https://doi.org/10.1016/0017-9310(69)90011-8
-

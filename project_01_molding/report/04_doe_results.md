@@ -1,6 +1,6 @@
 # PROJECT 1 · STEP 4 — Physics-informed DOE 결과
 
-> 본 결과는 문헌이 지지하는 인과 방향을 바탕으로 만든 **synthetic Engineering Scenario**이다. 수치 계수와 최적 recipe는 실제 Fab 조건, SK하이닉스 조건 또는 업계 표준이 아니다.
+> 본 결과는 문헌이 지지하는 인과 방향을 바탕으로 만든 **synthetic Engineering Scenario**이다. 수치 계수와 최적 recipe는 실제 Fab 조건, 특정 기업의 조건 또는 업계 표준이 아니다.
 
 ## 1. 결론부터
 

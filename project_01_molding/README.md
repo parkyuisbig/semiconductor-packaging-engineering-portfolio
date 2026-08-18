@@ -12,7 +12,7 @@
 
 > 본 데이터는 공개 문헌과 공정 메커니즘을 참고하여 프로젝트 검증 목적으로 생성한 synthetic engineering dataset이다.
 
-생성 데이터는 단순 random noise가 아니라 진공, 수지 유동, 온도, vent, film tension과 CTQ 사이의 명시적 인과 구조를 포함한다. 실제 SK하이닉스/Fab 데이터와 생산 recipe는 사용하지 않았다.
+생성 데이터는 단순 random noise가 아니라 진공, 수지 유동, 온도, vent, film tension과 CTQ 사이의 명시적 인과 구조를 포함한다. 실제 Fab/기업 데이터와 생산 recipe는 사용하지 않았다.
 
 ## 문제 해결 흐름
 
@@ -29,7 +29,7 @@
 ## 최종 포트폴리오 바로가기
 
 - [`report/A3_report.md`](report/A3_report.md): 현상–가설–물리식–검증–개선–한계를 한 장 흐름으로 정리
-- [`report/interview_summary.md`](report/interview_summary.md): 1분/3분 설명과 SK하이닉스 P&T 예상 질문 12개
+- [`report/interview_summary.md`](report/interview_summary.md): 1분/3분 설명과 Package & Test 직무 예상 질문 12개
 - [`report/cover_letter_summaries.md`](report/cover_letter_summaries.md): 자기소개서 약 100·300·500자 버전
 - [`report/github_beginner_guide.md`](report/github_beginner_guide.md): GitHub Desktop 및 PowerShell 첫 업로드 가이드
 
@@ -73,7 +73,7 @@
 - Process margin과 Edge Void 상관: -0.78
 - 최종 evidence: H1 Strong, H2 Medium-Strong, H3 Medium; measurement confounding은 recipe lock 후 감소했으나 완전히 제거됐다고 주장하지 않음
 
-이 결과는 synthetic causal structure에 대한 EDA이며 실제 생산 인과관계나 SK하이닉스 공정 성능을 의미하지 않는다.
+이 결과는 synthetic causal structure에 대한 EDA이며 실제 생산 인과관계나 특정 기업의 공정 성능을 의미하지 않는다.
 
 ## STEP 3 핵심 공학 모델
 
@@ -124,9 +124,9 @@ python src/analysis.py
 python src/visualization.py
 ```
 
-## 다음 의사결정 게이트
+## 포트폴리오 활용
 
-다음 단계에서는 GitHub README, A3 report, 1분 면접 설명, 자기소개서 100/300/500자와 SK하이닉스 연결 질문 답변을 묶어 최종 포트폴리오 패키지를 완성한다.
+GitHub README, A3 report, 1분 면접 설명, 자기소개서 100/300/500자와 Package & Test 직무 질문 답변을 하나의 포트폴리오 패키지로 구성했다.
 
 ## 공개 근거
 

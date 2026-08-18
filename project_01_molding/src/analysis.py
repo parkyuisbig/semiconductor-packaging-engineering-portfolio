@@ -87,7 +87,7 @@ def evidence_table(stats: dict) -> pd.DataFrame:
 def build_report(stats: dict) -> str:
     return f"""# PROJECT 1 · STEP 2 — EDA Findings
 
-> **데이터 고지:** 본 데이터는 공개 문헌과 공정 메커니즘을 참고하여 프로젝트 검증 목적으로 생성한 synthetic engineering dataset이다. 아래 수치는 실제 Fab 성능이나 SK하이닉스 규격이 아니다.
+> **데이터 고지:** 본 데이터는 공개 문헌과 공정 메커니즘을 참고하여 프로젝트 검증 목적으로 생성한 synthetic engineering dataset이다. 아래 수치는 실제 Fab 성능이나 특정 기업의 규격이 아니다.
 
 ## Executive Finding
 

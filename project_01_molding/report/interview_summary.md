@@ -1,4 +1,4 @@
-# PROJECT 1 — 면접 설명 및 SK하이닉스 P&T 직무 연결
+# PROJECT 1 — 면접 설명 및 Package & Test 직무 연결
 
 ## 1분 설명
 
@@ -80,4 +80,3 @@ CTQ인 Edge Void·Offset·Warpage·Cycle Time과 함께 actual vacuum 도달시�
 
 **“표면거칠기를 smooth로 만들면 끝인가요?”**  
 아닙니다. wetting은 좋아질 수 있지만 holding shear가 낮아질 수 있습니다. Ra 하나가 아니라 texture, contact angle, shear strength, void와 failure mode를 함께 확인해 surface window를 정해야 합니다.
-

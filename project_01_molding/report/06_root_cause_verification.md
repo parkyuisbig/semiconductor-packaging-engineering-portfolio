@@ -1,6 +1,6 @@
 # PROJECT 1 · STEP 6 — Root Cause Verification & Robust Process Window
 
-> 모든 수치와 Root Cause 판정은 synthetic Engineering Scenario 내부의 결과다. 실제 Fab Root Cause 또는 SK하이닉스 공정 조건으로 표현하지 않는다.
+> 모든 수치와 Root Cause 판정은 synthetic Engineering Scenario 내부의 결과다. 실제 Fab Root Cause 또는 특정 기업의 공정 조건으로 표현하지 않는다.
 
 ## 1. 최종 판단
 

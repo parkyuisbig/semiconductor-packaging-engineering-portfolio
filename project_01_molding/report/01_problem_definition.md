@@ -41,7 +41,7 @@ Edge void + directional chip offset
 
 정밀 CAE 수치가 아니라 **원인 방향과 필요한 센서를 정하는 engineering model**로 사용한다.
 
-### SK하이닉스 P&T 양산기술과의 연결
+### Package & Test 양산기술 직무와의 연결
 
 이 관점은 다음 역량을 한 프로젝트에서 동시에 보여준다.
 
@@ -55,7 +55,7 @@ Edge void + directional chip offset
 
 ## 3. Project Scenario의 현상과 CTQ
 
-아래 숫자는 실제 SK하이닉스 또는 업계 규격이 아니다. 이후 synthetic dataset과 검증 설계를 일관되게 만들기 위한 **본 프로젝트 분석용 Engineering Target**이다.
+아래 숫자는 실제 Fab 또는 업계 규격이 아니다. 이후 synthetic dataset과 검증 설계를 일관되게 만들기 위한 **본 프로젝트 분석용 Engineering Target**이다.
 
 ### 현상
 

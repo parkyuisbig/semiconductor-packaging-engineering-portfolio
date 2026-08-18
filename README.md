@@ -21,7 +21,7 @@
 - 표면가설 H3: roughness가 wetting과 holding shear를 동시에 바꾸는 modifier — **Medium**, coupon replication 필요
 - 개선 후보: M02/Smooth, 4.5 kPa abs, zone range 1.5°C, closing speed 0.85 mm/s
 - 12회 synthetic confirmation: Edge Void 1.77% → 0.40%, Offset P95 41.1 → 16.7 μm
-- 단, 이는 실제 Fab 수율 개선 실적이나 SK하이닉스 recipe가 아니라 **프로젝트 시나리오 내부의 검증 결과**입니다.
+- 단, 이는 실제 Fab 수율 개선 실적이나 특정 기업의 recipe가 아니라 **프로젝트 시나리오 내부의 검증 결과**입니다.
 
 프로젝트 보기:
 
@@ -61,7 +61,7 @@ flowchart LR
 
 > 본 데이터는 공개 문헌과 공정 메커니즘을 참고하여 프로젝트 검증 목적으로 생성한 synthetic engineering dataset이다.
 
-- 실제 SK하이닉스 또는 다른 Fab의 데이터·recipe·규격을 사용하지 않았습니다.
+- 실제 Fab 또는 특정 기업의 데이터·recipe·규격을 사용하지 않았습니다.
 - 수치는 `Engineering Target`과 project scenario이며 업계 표준값으로 주장하지 않습니다.
 - Kaggle/GitHub 자료는 공간 데이터 표현과 분석 파이프라인 참고용이고, root cause 근거는 peer-reviewed mechanism과 프로젝트 검증에서 분리해 다룹니다.
 - 실제 적용 전에는 제품별 material property, 장비 trace, chamber/material block confirmation 및 requalification이 필요합니다.
