@@ -1,0 +1,541 @@
+metric,unit,phase,part,operator,repeat,reference_value,measured_value,resolution,engineering_tolerance
+Edge Void Area Ratio (%),%,Before recipe lock,P01,OP_A,1,0.11439830901230498,0.02,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P01,OP_A,2,0.11439830901230498,0.09,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P01,OP_A,3,0.11439830901230498,0.13,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P01,OP_B,1,0.11439830901230498,0.22,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P01,OP_B,2,0.11439830901230498,0.13,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P01,OP_B,3,0.11439830901230498,0.33,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P01,OP_C,1,0.11439830901230498,0.07,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P01,OP_C,2,0.11439830901230498,0.02,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P01,OP_C,3,0.11439830901230498,0.01,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P02,OP_A,1,0.21165927127906617,0.17,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P02,OP_A,2,0.21165927127906617,0.21,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P02,OP_A,3,0.21165927127906617,0.14,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P02,OP_B,1,0.21165927127906617,0.26,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P02,OP_B,2,0.21165927127906617,0.27,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P02,OP_B,3,0.21165927127906617,0.23,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P02,OP_C,1,0.21165927127906617,0.22,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P02,OP_C,2,0.21165927127906617,0.12,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P02,OP_C,3,0.21165927127906617,0.19,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P03,OP_A,1,0.34477565086540873,0.4,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P03,OP_A,2,0.34477565086540873,0.29,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P03,OP_A,3,0.34477565086540873,0.27,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P03,OP_B,1,0.34477565086540873,0.47000000000000003,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P03,OP_B,2,0.34477565086540873,0.49,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P03,OP_B,3,0.34477565086540873,0.39,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P03,OP_C,1,0.34477565086540873,0.27,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P03,OP_C,2,0.34477565086540873,0.22,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P03,OP_C,3,0.34477565086540873,0.2,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P04,OP_A,1,0.4327532618160901,0.45,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P04,OP_A,2,0.4327532618160901,0.47000000000000003,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P04,OP_A,3,0.4327532618160901,0.39,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P04,OP_B,1,0.4327532618160901,0.41000000000000003,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P04,OP_B,2,0.4327532618160901,0.5,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P04,OP_B,3,0.4327532618160901,0.48,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P04,OP_C,1,0.4327532618160901,0.38,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P04,OP_C,2,0.4327532618160901,0.49,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P04,OP_C,3,0.4327532618160901,0.44,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P05,OP_A,1,0.5617194309224843,0.61,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P05,OP_A,2,0.5617194309224843,0.6,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P05,OP_A,3,0.5617194309224843,0.52,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P05,OP_B,1,0.5617194309224843,0.65,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P05,OP_B,2,0.5617194309224843,0.62,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P05,OP_B,3,0.5617194309224843,0.65,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P05,OP_C,1,0.5617194309224843,0.55,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P05,OP_C,2,0.5617194309224843,0.54,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P05,OP_C,3,0.5617194309224843,0.46,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P06,OP_A,1,0.6260998052569166,0.59,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P06,OP_A,2,0.6260998052569166,0.56,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P06,OP_A,3,0.6260998052569166,0.68,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P06,OP_B,1,0.6260998052569166,0.68,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P06,OP_B,2,0.6260998052569166,0.68,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P06,OP_B,3,0.6260998052569166,0.72,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P06,OP_C,1,0.6260998052569166,0.5700000000000001,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P06,OP_C,2,0.6260998052569166,0.5700000000000001,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P06,OP_C,3,0.6260998052569166,0.67,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P07,OP_A,1,0.7647976539165396,0.73,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P07,OP_A,2,0.7647976539165396,0.74,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P07,OP_A,3,0.7647976539165396,0.7000000000000001,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P07,OP_B,1,0.7647976539165396,0.8200000000000001,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P07,OP_B,2,0.7647976539165396,0.8300000000000001,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P07,OP_B,3,0.7647976539165396,0.8300000000000001,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P07,OP_C,1,0.7647976539165396,0.76,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P07,OP_C,2,0.7647976539165396,0.7000000000000001,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P07,OP_C,3,0.7647976539165396,0.6900000000000001,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P08,OP_A,1,0.8795873047411342,0.87,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P08,OP_A,2,0.8795873047411342,0.92,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P08,OP_A,3,0.8795873047411342,0.97,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P08,OP_B,1,0.8795873047411342,0.92,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P08,OP_B,2,0.8795873047411342,0.96,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P08,OP_B,3,0.8795873047411342,0.91,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P08,OP_C,1,0.8795873047411342,0.9,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P08,OP_C,2,0.8795873047411342,0.8200000000000001,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P08,OP_C,3,0.8795873047411342,0.8300000000000001,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P09,OP_A,1,0.9826860649380253,1.01,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P09,OP_A,2,0.9826860649380253,0.98,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P09,OP_A,3,0.9826860649380253,0.93,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P09,OP_B,1,0.9826860649380253,1.05,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P09,OP_B,2,0.9826860649380253,1.11,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P09,OP_B,3,0.9826860649380253,1.02,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P09,OP_C,1,0.9826860649380253,0.98,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P09,OP_C,2,0.9826860649380253,0.93,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P09,OP_C,3,0.9826860649380253,0.9400000000000001,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P10,OP_A,1,1.1051532925428726,1.18,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P10,OP_A,2,1.1051532925428726,1.06,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P10,OP_A,3,1.1051532925428726,1.05,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P10,OP_B,1,1.1051532925428726,1.23,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P10,OP_B,2,1.1051532925428726,1.2,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P10,OP_B,3,1.1051532925428726,1.17,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P10,OP_C,1,1.1051532925428726,1.12,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P10,OP_C,2,1.1051532925428726,1.1,0.01,1.0
+Edge Void Area Ratio (%),%,Before recipe lock,P10,OP_C,3,1.1051532925428726,1.06,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P01,OP_A,1,0.11439830901230498,0.11,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P01,OP_A,2,0.11439830901230498,0.13,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P01,OP_A,3,0.11439830901230498,0.14,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P01,OP_B,1,0.11439830901230498,0.13,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P01,OP_B,2,0.11439830901230498,0.1,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P01,OP_B,3,0.11439830901230498,0.16,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P01,OP_C,1,0.11439830901230498,0.1,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P01,OP_C,2,0.11439830901230498,0.12,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P01,OP_C,3,0.11439830901230498,0.09,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P02,OP_A,1,0.21165927127906617,0.2,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P02,OP_A,2,0.21165927127906617,0.23,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P02,OP_A,3,0.21165927127906617,0.23,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P02,OP_B,1,0.21165927127906617,0.2,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P02,OP_B,2,0.21165927127906617,0.22,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P02,OP_B,3,0.21165927127906617,0.24,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P02,OP_C,1,0.21165927127906617,0.18,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P02,OP_C,2,0.21165927127906617,0.23,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P02,OP_C,3,0.21165927127906617,0.18,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P03,OP_A,1,0.34477565086540873,0.32,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P03,OP_A,2,0.34477565086540873,0.36,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P03,OP_A,3,0.34477565086540873,0.34,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P03,OP_B,1,0.34477565086540873,0.37,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P03,OP_B,2,0.34477565086540873,0.35000000000000003,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P03,OP_B,3,0.34477565086540873,0.38,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P03,OP_C,1,0.34477565086540873,0.33,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P03,OP_C,2,0.34477565086540873,0.33,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P03,OP_C,3,0.34477565086540873,0.3,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P04,OP_A,1,0.4327532618160901,0.43,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P04,OP_A,2,0.4327532618160901,0.43,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P04,OP_A,3,0.4327532618160901,0.43,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P04,OP_B,1,0.4327532618160901,0.45,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P04,OP_B,2,0.4327532618160901,0.45,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P04,OP_B,3,0.4327532618160901,0.43,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P04,OP_C,1,0.4327532618160901,0.41000000000000003,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P04,OP_C,2,0.4327532618160901,0.43,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P04,OP_C,3,0.4327532618160901,0.41000000000000003,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P05,OP_A,1,0.5617194309224843,0.54,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P05,OP_A,2,0.5617194309224843,0.56,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P05,OP_A,3,0.5617194309224843,0.58,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P05,OP_B,1,0.5617194309224843,0.58,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P05,OP_B,2,0.5617194309224843,0.61,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P05,OP_B,3,0.5617194309224843,0.5700000000000001,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P05,OP_C,1,0.5617194309224843,0.56,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P05,OP_C,2,0.5617194309224843,0.59,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P05,OP_C,3,0.5617194309224843,0.55,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P06,OP_A,1,0.6260998052569166,0.61,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P06,OP_A,2,0.6260998052569166,0.5700000000000001,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P06,OP_A,3,0.6260998052569166,0.64,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P06,OP_B,1,0.6260998052569166,0.61,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P06,OP_B,2,0.6260998052569166,0.63,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P06,OP_B,3,0.6260998052569166,0.64,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P06,OP_C,1,0.6260998052569166,0.63,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P06,OP_C,2,0.6260998052569166,0.63,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P06,OP_C,3,0.6260998052569166,0.61,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P07,OP_A,1,0.7647976539165396,0.79,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P07,OP_A,2,0.7647976539165396,0.76,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P07,OP_A,3,0.7647976539165396,0.77,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P07,OP_B,1,0.7647976539165396,0.76,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P07,OP_B,2,0.7647976539165396,0.75,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P07,OP_B,3,0.7647976539165396,0.76,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P07,OP_C,1,0.7647976539165396,0.77,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P07,OP_C,2,0.7647976539165396,0.77,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P07,OP_C,3,0.7647976539165396,0.74,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P08,OP_A,1,0.8795873047411342,0.88,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P08,OP_A,2,0.8795873047411342,0.89,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P08,OP_A,3,0.8795873047411342,0.87,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P08,OP_B,1,0.8795873047411342,0.87,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P08,OP_B,2,0.8795873047411342,0.89,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P08,OP_B,3,0.8795873047411342,0.9,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P08,OP_C,1,0.8795873047411342,0.89,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P08,OP_C,2,0.8795873047411342,0.87,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P08,OP_C,3,0.8795873047411342,0.89,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P09,OP_A,1,0.9826860649380253,1.0,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P09,OP_A,2,0.9826860649380253,0.9400000000000001,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P09,OP_A,3,0.9826860649380253,0.98,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P09,OP_B,1,0.9826860649380253,0.98,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P09,OP_B,2,0.9826860649380253,1.0,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P09,OP_B,3,0.9826860649380253,0.99,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P09,OP_C,1,0.9826860649380253,0.9500000000000001,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P09,OP_C,2,0.9826860649380253,0.99,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P09,OP_C,3,0.9826860649380253,0.99,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P10,OP_A,1,1.1051532925428726,1.1,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P10,OP_A,2,1.1051532925428726,1.09,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P10,OP_A,3,1.1051532925428726,1.09,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P10,OP_B,1,1.1051532925428726,1.1500000000000001,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P10,OP_B,2,1.1051532925428726,1.12,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P10,OP_B,3,1.1051532925428726,1.11,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P10,OP_C,1,1.1051532925428726,1.1,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P10,OP_C,2,1.1051532925428726,1.11,0.01,1.0
+Edge Void Area Ratio (%),%,After recipe lock,P10,OP_C,3,1.1051532925428726,1.1,0.01,1.0
+Chip Offset (um),um,Before recipe lock,P01,OP_A,1,3.5939604391842397,3.1,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P01,OP_A,2,3.5939604391842397,3.7,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P01,OP_A,3,3.5939604391842397,4.0,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P01,OP_B,1,3.5939604391842397,4.1000000000000005,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P01,OP_B,2,3.5939604391842397,4.3,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P01,OP_B,3,3.5939604391842397,4.3,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P01,OP_C,1,3.5939604391842397,1.8,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P01,OP_C,2,3.5939604391842397,2.1,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P01,OP_C,3,3.5939604391842397,4.2,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P02,OP_A,1,6.92379997947154,6.9,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P02,OP_A,2,6.92379997947154,7.5,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P02,OP_A,3,6.92379997947154,5.7,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P02,OP_B,1,6.92379997947154,8.9,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P02,OP_B,2,6.92379997947154,9.1,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P02,OP_B,3,6.92379997947154,6.2,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P02,OP_C,1,6.92379997947154,7.0,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P02,OP_C,2,6.92379997947154,5.5,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P02,OP_C,3,6.92379997947154,5.4,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P03,OP_A,1,10.35919101090103,10.100000000000001,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P03,OP_A,2,10.35919101090103,8.9,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P03,OP_A,3,10.35919101090103,8.200000000000001,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P03,OP_B,1,10.35919101090103,9.9,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P03,OP_B,2,10.35919101090103,11.3,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P03,OP_B,3,10.35919101090103,10.600000000000001,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P03,OP_C,1,10.35919101090103,10.600000000000001,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P03,OP_C,2,10.35919101090103,7.800000000000001,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P03,OP_C,3,10.35919101090103,10.0,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P04,OP_A,1,13.148339699116594,14.4,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P04,OP_A,2,13.148339699116594,14.3,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P04,OP_A,3,13.148339699116594,13.600000000000001,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P04,OP_B,1,13.148339699116594,13.4,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P04,OP_B,2,13.148339699116594,13.5,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P04,OP_B,3,13.148339699116594,14.0,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P04,OP_C,1,13.148339699116594,12.0,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P04,OP_C,2,13.148339699116594,12.4,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P04,OP_C,3,13.148339699116594,13.600000000000001,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P05,OP_A,1,15.819025547260546,16.5,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P05,OP_A,2,15.819025547260546,15.8,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P05,OP_A,3,15.819025547260546,15.8,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P05,OP_B,1,15.819025547260546,16.400000000000002,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P05,OP_B,2,15.819025547260546,17.6,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P05,OP_B,3,15.819025547260546,17.0,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P05,OP_C,1,15.819025547260546,14.5,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P05,OP_C,2,15.819025547260546,15.9,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P05,OP_C,3,15.819025547260546,17.7,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P06,OP_A,1,19.083123609598093,20.200000000000003,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P06,OP_A,2,19.083123609598093,19.1,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P06,OP_A,3,19.083123609598093,18.3,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P06,OP_B,1,19.083123609598093,17.5,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P06,OP_B,2,19.083123609598093,19.700000000000003,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P06,OP_B,3,19.083123609598093,19.6,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P06,OP_C,1,19.083123609598093,18.5,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P06,OP_C,2,19.083123609598093,17.2,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P06,OP_C,3,19.083123609598093,19.0,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P07,OP_A,1,21.985816848585756,21.3,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P07,OP_A,2,21.985816848585756,21.400000000000002,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P07,OP_A,3,21.985816848585756,22.5,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P07,OP_B,1,21.985816848585756,22.400000000000002,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P07,OP_B,2,21.985816848585756,23.200000000000003,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P07,OP_B,3,21.985816848585756,21.200000000000003,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P07,OP_C,1,21.985816848585756,21.700000000000003,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P07,OP_C,2,21.985816848585756,21.6,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P07,OP_C,3,21.985816848585756,21.3,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P08,OP_A,1,25.087657091092105,24.6,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P08,OP_A,2,25.087657091092105,24.400000000000002,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P08,OP_A,3,25.087657091092105,23.900000000000002,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P08,OP_B,1,25.087657091092105,25.8,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P08,OP_B,2,25.087657091092105,27.200000000000003,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P08,OP_B,3,25.087657091092105,24.900000000000002,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P08,OP_C,1,25.087657091092105,23.900000000000002,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P08,OP_C,2,25.087657091092105,22.200000000000003,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P08,OP_C,3,25.087657091092105,24.8,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P09,OP_A,1,27.929300496578666,28.900000000000002,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P09,OP_A,2,27.929300496578666,27.700000000000003,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P09,OP_A,3,27.929300496578666,26.1,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P09,OP_B,1,27.929300496578666,27.8,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P09,OP_B,2,27.929300496578666,27.1,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P09,OP_B,3,27.929300496578666,30.400000000000002,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P09,OP_C,1,27.929300496578666,29.200000000000003,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P09,OP_C,2,27.929300496578666,29.900000000000002,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P09,OP_C,3,27.929300496578666,27.0,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P10,OP_A,1,31.04040888007076,31.200000000000003,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P10,OP_A,2,31.04040888007076,30.900000000000002,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P10,OP_A,3,31.04040888007076,31.200000000000003,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P10,OP_B,1,31.04040888007076,32.300000000000004,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P10,OP_B,2,31.04040888007076,31.400000000000002,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P10,OP_B,3,31.04040888007076,32.4,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P10,OP_C,1,31.04040888007076,30.1,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P10,OP_C,2,31.04040888007076,32.1,0.1,30.0
+Chip Offset (um),um,Before recipe lock,P10,OP_C,3,31.04040888007076,30.400000000000002,0.1,30.0
+Chip Offset (um),um,After recipe lock,P01,OP_A,1,3.5939604391842397,3.9000000000000004,0.1,30.0
+Chip Offset (um),um,After recipe lock,P01,OP_A,2,3.5939604391842397,3.5,0.1,30.0
+Chip Offset (um),um,After recipe lock,P01,OP_A,3,3.5939604391842397,3.6,0.1,30.0
+Chip Offset (um),um,After recipe lock,P01,OP_B,1,3.5939604391842397,3.5,0.1,30.0
+Chip Offset (um),um,After recipe lock,P01,OP_B,2,3.5939604391842397,3.7,0.1,30.0
+Chip Offset (um),um,After recipe lock,P01,OP_B,3,3.5939604391842397,3.7,0.1,30.0
+Chip Offset (um),um,After recipe lock,P01,OP_C,1,3.5939604391842397,3.7,0.1,30.0
+Chip Offset (um),um,After recipe lock,P01,OP_C,2,3.5939604391842397,2.8000000000000003,0.1,30.0
+Chip Offset (um),um,After recipe lock,P01,OP_C,3,3.5939604391842397,2.7,0.1,30.0
+Chip Offset (um),um,After recipe lock,P02,OP_A,1,6.92379997947154,6.7,0.1,30.0
+Chip Offset (um),um,After recipe lock,P02,OP_A,2,6.92379997947154,7.1000000000000005,0.1,30.0
+Chip Offset (um),um,After recipe lock,P02,OP_A,3,6.92379997947154,7.300000000000001,0.1,30.0
+Chip Offset (um),um,After recipe lock,P02,OP_B,1,6.92379997947154,7.5,0.1,30.0
+Chip Offset (um),um,After recipe lock,P02,OP_B,2,6.92379997947154,7.2,0.1,30.0
+Chip Offset (um),um,After recipe lock,P02,OP_B,3,6.92379997947154,6.800000000000001,0.1,30.0
+Chip Offset (um),um,After recipe lock,P02,OP_C,1,6.92379997947154,6.7,0.1,30.0
+Chip Offset (um),um,After recipe lock,P02,OP_C,2,6.92379997947154,6.4,0.1,30.0
+Chip Offset (um),um,After recipe lock,P02,OP_C,3,6.92379997947154,7.1000000000000005,0.1,30.0
+Chip Offset (um),um,After recipe lock,P03,OP_A,1,10.35919101090103,10.0,0.1,30.0
+Chip Offset (um),um,After recipe lock,P03,OP_A,2,10.35919101090103,10.4,0.1,30.0
+Chip Offset (um),um,After recipe lock,P03,OP_A,3,10.35919101090103,11.100000000000001,0.1,30.0
+Chip Offset (um),um,After recipe lock,P03,OP_B,1,10.35919101090103,10.8,0.1,30.0
+Chip Offset (um),um,After recipe lock,P03,OP_B,2,10.35919101090103,11.100000000000001,0.1,30.0
+Chip Offset (um),um,After recipe lock,P03,OP_B,3,10.35919101090103,11.5,0.1,30.0
+Chip Offset (um),um,After recipe lock,P03,OP_C,1,10.35919101090103,9.8,0.1,30.0
+Chip Offset (um),um,After recipe lock,P03,OP_C,2,10.35919101090103,10.4,0.1,30.0
+Chip Offset (um),um,After recipe lock,P03,OP_C,3,10.35919101090103,10.3,0.1,30.0
+Chip Offset (um),um,After recipe lock,P04,OP_A,1,13.148339699116594,12.700000000000001,0.1,30.0
+Chip Offset (um),um,After recipe lock,P04,OP_A,2,13.148339699116594,13.0,0.1,30.0
+Chip Offset (um),um,After recipe lock,P04,OP_A,3,13.148339699116594,13.5,0.1,30.0
+Chip Offset (um),um,After recipe lock,P04,OP_B,1,13.148339699116594,13.3,0.1,30.0
+Chip Offset (um),um,After recipe lock,P04,OP_B,2,13.148339699116594,13.600000000000001,0.1,30.0
+Chip Offset (um),um,After recipe lock,P04,OP_B,3,13.148339699116594,13.200000000000001,0.1,30.0
+Chip Offset (um),um,After recipe lock,P04,OP_C,1,13.148339699116594,12.9,0.1,30.0
+Chip Offset (um),um,After recipe lock,P04,OP_C,2,13.148339699116594,12.9,0.1,30.0
+Chip Offset (um),um,After recipe lock,P04,OP_C,3,13.148339699116594,13.0,0.1,30.0
+Chip Offset (um),um,After recipe lock,P05,OP_A,1,15.819025547260546,15.600000000000001,0.1,30.0
+Chip Offset (um),um,After recipe lock,P05,OP_A,2,15.819025547260546,15.4,0.1,30.0
+Chip Offset (um),um,After recipe lock,P05,OP_A,3,15.819025547260546,15.700000000000001,0.1,30.0
+Chip Offset (um),um,After recipe lock,P05,OP_B,1,15.819025547260546,16.400000000000002,0.1,30.0
+Chip Offset (um),um,After recipe lock,P05,OP_B,2,15.819025547260546,16.900000000000002,0.1,30.0
+Chip Offset (um),um,After recipe lock,P05,OP_B,3,15.819025547260546,17.0,0.1,30.0
+Chip Offset (um),um,After recipe lock,P05,OP_C,1,15.819025547260546,15.600000000000001,0.1,30.0
+Chip Offset (um),um,After recipe lock,P05,OP_C,2,15.819025547260546,15.700000000000001,0.1,30.0
+Chip Offset (um),um,After recipe lock,P05,OP_C,3,15.819025547260546,15.4,0.1,30.0
+Chip Offset (um),um,After recipe lock,P06,OP_A,1,19.083123609598093,18.8,0.1,30.0
+Chip Offset (um),um,After recipe lock,P06,OP_A,2,19.083123609598093,18.7,0.1,30.0
+Chip Offset (um),um,After recipe lock,P06,OP_A,3,19.083123609598093,19.1,0.1,30.0
+Chip Offset (um),um,After recipe lock,P06,OP_B,1,19.083123609598093,19.5,0.1,30.0
+Chip Offset (um),um,After recipe lock,P06,OP_B,2,19.083123609598093,19.900000000000002,0.1,30.0
+Chip Offset (um),um,After recipe lock,P06,OP_B,3,19.083123609598093,19.6,0.1,30.0
+Chip Offset (um),um,After recipe lock,P06,OP_C,1,19.083123609598093,18.8,0.1,30.0
+Chip Offset (um),um,After recipe lock,P06,OP_C,2,19.083123609598093,18.900000000000002,0.1,30.0
+Chip Offset (um),um,After recipe lock,P06,OP_C,3,19.083123609598093,18.400000000000002,0.1,30.0
+Chip Offset (um),um,After recipe lock,P07,OP_A,1,21.985816848585756,22.200000000000003,0.1,30.0
+Chip Offset (um),um,After recipe lock,P07,OP_A,2,21.985816848585756,22.0,0.1,30.0
+Chip Offset (um),um,After recipe lock,P07,OP_A,3,21.985816848585756,22.3,0.1,30.0
+Chip Offset (um),um,After recipe lock,P07,OP_B,1,21.985816848585756,22.1,0.1,30.0
+Chip Offset (um),um,After recipe lock,P07,OP_B,2,21.985816848585756,21.8,0.1,30.0
+Chip Offset (um),um,After recipe lock,P07,OP_B,3,21.985816848585756,21.700000000000003,0.1,30.0
+Chip Offset (um),um,After recipe lock,P07,OP_C,1,21.985816848585756,22.0,0.1,30.0
+Chip Offset (um),um,After recipe lock,P07,OP_C,2,21.985816848585756,22.200000000000003,0.1,30.0
+Chip Offset (um),um,After recipe lock,P07,OP_C,3,21.985816848585756,22.400000000000002,0.1,30.0
+Chip Offset (um),um,After recipe lock,P08,OP_A,1,25.087657091092105,25.200000000000003,0.1,30.0
+Chip Offset (um),um,After recipe lock,P08,OP_A,2,25.087657091092105,25.1,0.1,30.0
+Chip Offset (um),um,After recipe lock,P08,OP_A,3,25.087657091092105,24.6,0.1,30.0
+Chip Offset (um),um,After recipe lock,P08,OP_B,1,25.087657091092105,25.1,0.1,30.0
+Chip Offset (um),um,After recipe lock,P08,OP_B,2,25.087657091092105,26.3,0.1,30.0
+Chip Offset (um),um,After recipe lock,P08,OP_B,3,25.087657091092105,25.8,0.1,30.0
+Chip Offset (um),um,After recipe lock,P08,OP_C,1,25.087657091092105,24.700000000000003,0.1,30.0
+Chip Offset (um),um,After recipe lock,P08,OP_C,2,25.087657091092105,24.6,0.1,30.0
+Chip Offset (um),um,After recipe lock,P08,OP_C,3,25.087657091092105,25.6,0.1,30.0
+Chip Offset (um),um,After recipe lock,P09,OP_A,1,27.929300496578666,27.700000000000003,0.1,30.0
+Chip Offset (um),um,After recipe lock,P09,OP_A,2,27.929300496578666,28.1,0.1,30.0
+Chip Offset (um),um,After recipe lock,P09,OP_A,3,27.929300496578666,28.200000000000003,0.1,30.0
+Chip Offset (um),um,After recipe lock,P09,OP_B,1,27.929300496578666,28.5,0.1,30.0
+Chip Offset (um),um,After recipe lock,P09,OP_B,2,27.929300496578666,28.0,0.1,30.0
+Chip Offset (um),um,After recipe lock,P09,OP_B,3,27.929300496578666,27.8,0.1,30.0
+Chip Offset (um),um,After recipe lock,P09,OP_C,1,27.929300496578666,27.400000000000002,0.1,30.0
+Chip Offset (um),um,After recipe lock,P09,OP_C,2,27.929300496578666,27.6,0.1,30.0
+Chip Offset (um),um,After recipe lock,P09,OP_C,3,27.929300496578666,27.700000000000003,0.1,30.0
+Chip Offset (um),um,After recipe lock,P10,OP_A,1,31.04040888007076,30.0,0.1,30.0
+Chip Offset (um),um,After recipe lock,P10,OP_A,2,31.04040888007076,30.1,0.1,30.0
+Chip Offset (um),um,After recipe lock,P10,OP_A,3,31.04040888007076,30.900000000000002,0.1,30.0
+Chip Offset (um),um,After recipe lock,P10,OP_B,1,31.04040888007076,31.6,0.1,30.0
+Chip Offset (um),um,After recipe lock,P10,OP_B,2,31.04040888007076,30.900000000000002,0.1,30.0
+Chip Offset (um),um,After recipe lock,P10,OP_B,3,31.04040888007076,31.6,0.1,30.0
+Chip Offset (um),um,After recipe lock,P10,OP_C,1,31.04040888007076,30.8,0.1,30.0
+Chip Offset (um),um,After recipe lock,P10,OP_C,2,31.04040888007076,31.6,0.1,30.0
+Chip Offset (um),um,After recipe lock,P10,OP_C,3,31.04040888007076,30.700000000000003,0.1,30.0
+Surface Roughness Ra (um),um,Before recipe lock,P01,OP_A,1,0.20014555893298733,0.19,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P01,OP_A,2,0.20014555893298733,0.2,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P01,OP_A,3,0.20014555893298733,0.199,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P01,OP_B,1,0.20014555893298733,0.20700000000000002,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P01,OP_B,2,0.20014555893298733,0.218,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P01,OP_B,3,0.20014555893298733,0.201,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P01,OP_C,1,0.20014555893298733,0.188,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P01,OP_C,2,0.20014555893298733,0.184,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P01,OP_C,3,0.20014555893298733,0.19,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P02,OP_A,1,0.2535132403920404,0.263,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P02,OP_A,2,0.2535132403920404,0.259,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P02,OP_A,3,0.2535132403920404,0.28200000000000003,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P02,OP_B,1,0.2535132403920404,0.264,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P02,OP_B,2,0.2535132403920404,0.268,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P02,OP_B,3,0.2535132403920404,0.267,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P02,OP_C,1,0.2535132403920404,0.242,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P02,OP_C,2,0.2535132403920404,0.224,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P02,OP_C,3,0.2535132403920404,0.234,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P03,OP_A,1,0.30962426537496657,0.318,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P03,OP_A,2,0.30962426537496657,0.306,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P03,OP_A,3,0.30962426537496657,0.298,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P03,OP_B,1,0.30962426537496657,0.34400000000000003,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P03,OP_B,2,0.30962426537496657,0.34500000000000003,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P03,OP_B,3,0.30962426537496657,0.341,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P03,OP_C,1,0.30962426537496657,0.297,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P03,OP_C,2,0.30962426537496657,0.305,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P03,OP_C,3,0.30962426537496657,0.295,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P04,OP_A,1,0.3576491027472857,0.357,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P04,OP_A,2,0.3576491027472857,0.365,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P04,OP_A,3,0.3576491027472857,0.373,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P04,OP_B,1,0.3576491027472857,0.361,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P04,OP_B,2,0.3576491027472857,0.36,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P04,OP_B,3,0.3576491027472857,0.356,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P04,OP_C,1,0.3576491027472857,0.358,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P04,OP_C,2,0.3576491027472857,0.335,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P04,OP_C,3,0.3576491027472857,0.369,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P05,OP_A,1,0.4171866851096818,0.421,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P05,OP_A,2,0.4171866851096818,0.421,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P05,OP_A,3,0.4171866851096818,0.423,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P05,OP_B,1,0.4171866851096818,0.427,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P05,OP_B,2,0.4171866851096818,0.451,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P05,OP_B,3,0.4171866851096818,0.434,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P05,OP_C,1,0.4171866851096818,0.423,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P05,OP_C,2,0.4171866851096818,0.41100000000000003,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P05,OP_C,3,0.4171866851096818,0.421,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P06,OP_A,1,0.47360269733450167,0.47200000000000003,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P06,OP_A,2,0.47360269733450167,0.491,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P06,OP_A,3,0.47360269733450167,0.47900000000000004,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P06,OP_B,1,0.47360269733450167,0.488,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P06,OP_B,2,0.47360269733450167,0.483,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P06,OP_B,3,0.47360269733450167,0.491,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P06,OP_C,1,0.47360269733450167,0.457,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P06,OP_C,2,0.47360269733450167,0.465,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P06,OP_C,3,0.47360269733450167,0.46900000000000003,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P07,OP_A,1,0.5464702335347145,0.542,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P07,OP_A,2,0.5464702335347145,0.554,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P07,OP_A,3,0.5464702335347145,0.541,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P07,OP_B,1,0.5464702335347145,0.557,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P07,OP_B,2,0.5464702335347145,0.549,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P07,OP_B,3,0.5464702335347145,0.5630000000000001,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P07,OP_C,1,0.5464702335347145,0.54,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P07,OP_C,2,0.5464702335347145,0.521,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P07,OP_C,3,0.5464702335347145,0.511,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P08,OP_A,1,0.5864021094470381,0.586,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P08,OP_A,2,0.5864021094470381,0.5700000000000001,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P08,OP_A,3,0.5864021094470381,0.5760000000000001,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P08,OP_B,1,0.5864021094470381,0.59,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P08,OP_B,2,0.5864021094470381,0.59,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P08,OP_B,3,0.5864021094470381,0.601,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P08,OP_C,1,0.5864021094470381,0.59,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P08,OP_C,2,0.5864021094470381,0.605,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P08,OP_C,3,0.5864021094470381,0.59,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P09,OP_A,1,0.6426660742579773,0.64,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P09,OP_A,2,0.6426660742579773,0.653,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P09,OP_A,3,0.6426660742579773,0.652,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P09,OP_B,1,0.6426660742579773,0.644,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P09,OP_B,2,0.6426660742579773,0.652,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P09,OP_B,3,0.6426660742579773,0.657,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P09,OP_C,1,0.6426660742579773,0.641,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P09,OP_C,2,0.6426660742579773,0.641,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P09,OP_C,3,0.6426660742579773,0.655,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P10,OP_A,1,0.6960324031499288,0.6990000000000001,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P10,OP_A,2,0.6960324031499288,0.6980000000000001,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P10,OP_A,3,0.6960324031499288,0.683,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P10,OP_B,1,0.6960324031499288,0.729,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P10,OP_B,2,0.6960324031499288,0.712,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P10,OP_B,3,0.6960324031499288,0.712,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P10,OP_C,1,0.6960324031499288,0.6930000000000001,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P10,OP_C,2,0.6960324031499288,0.6950000000000001,0.001,0.5
+Surface Roughness Ra (um),um,Before recipe lock,P10,OP_C,3,0.6960324031499288,0.6970000000000001,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P01,OP_A,1,0.20014555893298733,0.201,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P01,OP_A,2,0.20014555893298733,0.203,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P01,OP_A,3,0.20014555893298733,0.197,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P01,OP_B,1,0.20014555893298733,0.2,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P01,OP_B,2,0.20014555893298733,0.20600000000000002,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P01,OP_B,3,0.20014555893298733,0.201,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P01,OP_C,1,0.20014555893298733,0.196,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P01,OP_C,2,0.20014555893298733,0.197,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P01,OP_C,3,0.20014555893298733,0.197,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P02,OP_A,1,0.2535132403920404,0.255,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P02,OP_A,2,0.2535132403920404,0.257,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P02,OP_A,3,0.2535132403920404,0.253,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P02,OP_B,1,0.2535132403920404,0.253,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P02,OP_B,2,0.2535132403920404,0.255,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P02,OP_B,3,0.2535132403920404,0.256,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P02,OP_C,1,0.2535132403920404,0.247,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P02,OP_C,2,0.2535132403920404,0.245,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P02,OP_C,3,0.2535132403920404,0.252,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P03,OP_A,1,0.30962426537496657,0.311,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P03,OP_A,2,0.30962426537496657,0.311,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P03,OP_A,3,0.30962426537496657,0.303,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P03,OP_B,1,0.30962426537496657,0.311,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P03,OP_B,2,0.30962426537496657,0.307,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P03,OP_B,3,0.30962426537496657,0.317,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P03,OP_C,1,0.30962426537496657,0.305,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P03,OP_C,2,0.30962426537496657,0.306,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P03,OP_C,3,0.30962426537496657,0.305,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P04,OP_A,1,0.3576491027472857,0.36,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P04,OP_A,2,0.3576491027472857,0.358,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P04,OP_A,3,0.3576491027472857,0.359,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P04,OP_B,1,0.3576491027472857,0.359,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P04,OP_B,2,0.3576491027472857,0.361,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P04,OP_B,3,0.3576491027472857,0.354,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P04,OP_C,1,0.3576491027472857,0.356,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P04,OP_C,2,0.3576491027472857,0.354,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P04,OP_C,3,0.3576491027472857,0.356,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P05,OP_A,1,0.4171866851096818,0.417,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P05,OP_A,2,0.4171866851096818,0.41600000000000004,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P05,OP_A,3,0.4171866851096818,0.426,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P05,OP_B,1,0.4171866851096818,0.422,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P05,OP_B,2,0.4171866851096818,0.42,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P05,OP_B,3,0.4171866851096818,0.422,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P05,OP_C,1,0.4171866851096818,0.41300000000000003,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P05,OP_C,2,0.4171866851096818,0.41500000000000004,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P05,OP_C,3,0.4171866851096818,0.41500000000000004,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P06,OP_A,1,0.47360269733450167,0.47300000000000003,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P06,OP_A,2,0.47360269733450167,0.47500000000000003,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P06,OP_A,3,0.47360269733450167,0.47800000000000004,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P06,OP_B,1,0.47360269733450167,0.485,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P06,OP_B,2,0.47360269733450167,0.482,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P06,OP_B,3,0.47360269733450167,0.47900000000000004,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P06,OP_C,1,0.47360269733450167,0.466,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P06,OP_C,2,0.47360269733450167,0.47200000000000003,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P06,OP_C,3,0.47360269733450167,0.467,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P07,OP_A,1,0.5464702335347145,0.552,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P07,OP_A,2,0.5464702335347145,0.549,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P07,OP_A,3,0.5464702335347145,0.548,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P07,OP_B,1,0.5464702335347145,0.548,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P07,OP_B,2,0.5464702335347145,0.55,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P07,OP_B,3,0.5464702335347145,0.541,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P07,OP_C,1,0.5464702335347145,0.542,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P07,OP_C,2,0.5464702335347145,0.55,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P07,OP_C,3,0.5464702335347145,0.541,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P08,OP_A,1,0.5864021094470381,0.588,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P08,OP_A,2,0.5864021094470381,0.593,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P08,OP_A,3,0.5864021094470381,0.589,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P08,OP_B,1,0.5864021094470381,0.582,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P08,OP_B,2,0.5864021094470381,0.588,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P08,OP_B,3,0.5864021094470381,0.593,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P08,OP_C,1,0.5864021094470381,0.5730000000000001,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P08,OP_C,2,0.5864021094470381,0.581,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P08,OP_C,3,0.5864021094470381,0.588,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P09,OP_A,1,0.6426660742579773,0.646,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P09,OP_A,2,0.6426660742579773,0.643,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P09,OP_A,3,0.6426660742579773,0.64,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P09,OP_B,1,0.6426660742579773,0.651,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P09,OP_B,2,0.6426660742579773,0.648,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P09,OP_B,3,0.6426660742579773,0.652,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P09,OP_C,1,0.6426660742579773,0.643,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P09,OP_C,2,0.6426660742579773,0.638,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P09,OP_C,3,0.6426660742579773,0.642,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P10,OP_A,1,0.6960324031499288,0.6900000000000001,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P10,OP_A,2,0.6960324031499288,0.6960000000000001,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P10,OP_A,3,0.6960324031499288,0.6980000000000001,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P10,OP_B,1,0.6960324031499288,0.7000000000000001,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P10,OP_B,2,0.6960324031499288,0.7020000000000001,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P10,OP_B,3,0.6960324031499288,0.7000000000000001,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P10,OP_C,1,0.6960324031499288,0.6970000000000001,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P10,OP_C,2,0.6960324031499288,0.7000000000000001,0.001,0.5
+Surface Roughness Ra (um),um,After recipe lock,P10,OP_C,3,0.6960324031499288,0.6950000000000001,0.001,0.5

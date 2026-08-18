@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<style>text{font-family:Segoe UI,Arial,sans-serif;fill:#172033}.axis{stroke:#94A3B8;stroke-width:1}.grid{stroke:#E2E8F0;stroke-width:1}.small{font-size:13px}.tick{font-size:12px;fill:#475569}.label{font-size:15px;font-weight:600}.title{font-size:24px;font-weight:700}.subtitle{font-size:13px;fill:#64748B}</style>
+<text class="title" x="105" y="38">Surface roughness trade-off</text>
+<text class="subtitle" x="105" y="59">Each point is one DOE run</text>
+<line class="axis" x1="105" y1="565" x2="945" y2="565"/>
+<line class="axis" x1="105" y1="565" x2="105" y2="75"/>
+<line class="grid" x1="105" y1="565.0" x2="945" y2="565.0"/>
+<text class="tick" x="95" y="569.0" text-anchor="end">0</text>
+<line class="grid" x1="105" y1="467.0" x2="945" y2="467.0"/>
+<text class="tick" x="95" y="471.0" text-anchor="end">0.68</text>
+<line class="grid" x1="105" y1="369.0" x2="945" y2="369.0"/>
+<text class="tick" x="95" y="373.0" text-anchor="end">1.4</text>
+<line class="grid" x1="105" y1="271.0" x2="945" y2="271.0"/>
+<text class="tick" x="95" y="275.0" text-anchor="end">2</text>
+<line class="grid" x1="105" y1="173.0" x2="945" y2="173.0"/>
+<text class="tick" x="95" y="177.0" text-anchor="end">2.7</text>
+<line class="grid" x1="105" y1="75.0" x2="945" y2="75.0"/>
+<text class="tick" x="95" y="79.0" text-anchor="end">3.4</text>
+<text class="tick" x="105.0" y="588" text-anchor="middle">13</text>
+<text class="tick" x="273.0" y="588" text-anchor="middle">19</text>
+<text class="tick" x="441.0" y="588" text-anchor="middle">25</text>
+<text class="tick" x="609.0" y="588" text-anchor="middle">31</text>
+<text class="tick" x="777.0" y="588" text-anchor="middle">37</text>
+<text class="tick" x="945.0" y="588" text-anchor="middle">43</text>
+<text class="label" x="525.0" y="625" text-anchor="middle">Chip offset P95 (μm)</text>
+<text class="label" transform="translate(27 320.0) rotate(-90)" text-anchor="middle">Edge void (%)</text>
+<circle cx="847.5" cy="237.9" r="7" fill="#2563EB" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="404.5" cy="407.7" r="7" fill="#2563EB" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="465.3" cy="386.2" r="7" fill="#2563EB" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="855.2" cy="221.6" r="7" fill="#2563EB" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="644.2" cy="293.9" r="7" fill="#2563EB" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="669.6" cy="281.3" r="7" fill="#2563EB" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="737.0" cy="228.4" r="7" fill="#2563EB" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="580.6" cy="331.3" r="7" fill="#2563EB" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="446.6" cy="394.8" r="7" fill="#2563EB" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="374.8" cy="344.7" r="7" fill="#F59E0B" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="228.2" cy="435.9" r="7" fill="#F59E0B" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="217.5" cy="401.3" r="7" fill="#F59E0B" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="495.1" cy="189.1" r="7" fill="#F59E0B" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="150.9" cy="474.2" r="7" fill="#F59E0B" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="357.2" cy="354.7" r="7" fill="#F59E0B" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="440.6" cy="231.0" r="7" fill="#F59E0B" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="146.4" cy="437.7" r="7" fill="#F59E0B" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="240.4" cy="398.6" r="7" fill="#F59E0B" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="499.2" cy="428.2" r="7" fill="#2563EB" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="231.7" cy="508.8" r="7" fill="#2563EB" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="448.7" cy="432.2" r="7" fill="#2563EB" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="582.4" cy="264.4" r="7" fill="#2563EB" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="491.6" cy="350.6" r="7" fill="#2563EB" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="352.3" cy="442.6" r="7" fill="#2563EB" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="578.7" cy="261.8" r="7" fill="#2563EB" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="344.4" cy="466.6" r="7" fill="#2563EB" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="273.5" cy="457.2" r="7" fill="#2563EB" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="442.1" cy="217.3" r="7" fill="#F59E0B" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="565.8" cy="127.5" r="7" fill="#F59E0B" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="345.4" cy="343.3" r="7" fill="#F59E0B" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="486.3" cy="168.7" r="7" fill="#F59E0B" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="434.3" cy="222.9" r="7" fill="#F59E0B" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="450.8" cy="169.5" r="7" fill="#F59E0B" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="340.5" cy="296.6" r="7" fill="#F59E0B" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="271.4" cy="369.2" r="7" fill="#F59E0B" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="394.5" cy="228.7" r="7" fill="#F59E0B" opacity="0.78" stroke="#FFFFFF"/>
+<circle cx="720" cy="53" r="7" fill="#2563EB"/><text class="small" x="734" y="58">Smooth</text>
+<circle cx="820" cy="53" r="7" fill="#F59E0B"/><text class="small" x="834" y="58">Textured</text>
+</svg>

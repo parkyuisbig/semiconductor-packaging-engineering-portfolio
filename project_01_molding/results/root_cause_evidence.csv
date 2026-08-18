@@ -1,0 +1,5 @@
+rank,cause,statistical,spatial,temporal,physical,evidence_level
+1,H1 Thermo-rheology × vacuum margin,margin r=-0.78; interaction model R²=0.90,edge/center=7.6×; radial vector alignment=0.94,pump-down/zone drift precedes high-risk shots in the scenario,t_vac + t_fill approaches t_gel; pressure gradient drives void and offset,Strong
+2,H2 Vacuum/Vent equipment degradation,chamber η²=0.38; pump-down r=0.80,chamber-specific directional asymmetry,vent PM age and chamber trace show drift/recovery,residual gas and asymmetric vent conductance remain plausible,Medium-Strong
+3,H3 EMC lot / exposure history,viscosity r=0.71; worst lot=M03,material alone does not fully explain directional pattern,lot genealogy explains part of shot-to-shot shift,viscosity and gel-time shift reduce filling margin,Medium
+4,Measurement threshold / registration,not estimable until repeat-scan study,edge optical/SAM bias remains a confounder,no metrology change encoded in current scenario,cannot create matching equipment trace signature,Unverified

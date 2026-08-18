@@ -1,0 +1,10 @@
+type,item,engineering_target,why_observe,evidence_or_signal,portfolio_control_concept,real_data_needed
+CTQ,Edge Void Area Ratio,≤0.50%,evacuation/fill/cure margin의 최종 품질 결과,wafer map + edge-distance profile,동일 inspection recipe로 before/after 비교,"actual SAM resolution, product spec"
+CTQ,Chip Offset P95,≤20 μm,flow load와 interface holding의 balance 결과,dx/dy vector map + registration residual,mold/debond 단계별 좌표 비교,RDL alignment margin
+Side CTQ,Warpage,≤750 μm,thermal/cure 조건 변경의 기계적 side effect,global bow/temperature curve,추천·경계 조건 동시 비교,package geometry-specific criterion
+Side CTQ,Cycle Time Index,≤105,vacuum/slow closing 개선의 생산성 trade-off,sequence timestamp,baseline 대비 index로 비교,equipment takt and capacity
+CPP,Actual vacuum base pressure,robust combinations 참조,setpoint보다 cavity evacuation의 실제 결과가 중요,"pump-down, base pressure, leak-up",raw trace와 CTQ를 shot_id로 연결,sensor accuracy and cavity-specific limit
+CPP,Heater-zone range,robust combinations 참조,local viscosity와 gel-time spatial difference를 만듦,zone waveform + calibration coupon,평균온도와 range를 분리 분석,local package temperature correlation
+CPP,Closing speed,robust combinations 참조,radial flow velocity와 die drag를 바꿈,platen position derivative,actual speed와 offset vector 연결,equipment motion accuracy
+Material/Surface,EMC rheology + film surface,미정,"gel margin, wetting, holding force의 modifier","viscosity/gel proxy, Ra/Rz, contact angle, shear",genealogy를 보존하고 block factor로 분석,replicated material/surface lots
+Measurement,Reference / requalification,운영 기준 미설정,measurement drift와 process change를 구분하고 조건 변경 전후 비교 가능성을 확인,same reference sample result,필요 이유만 문서화,actual tool and method change history

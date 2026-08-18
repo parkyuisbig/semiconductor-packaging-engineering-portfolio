@@ -1,0 +1,7 @@
+claim,statistical_evidence,physical_evidence,decision,remaining_real_test
+H1 evacuation/cure margin controls Edge Void,"A=0.48, B=0.99, A×B=0.12 %-point",t_vac + t_fill competes with t_gel; edge pattern and short-shot prediction,Confirmed within synthetic scenario,DSC/DEA calibration + short-shot + actual trace DOE
+H2 Vacuum/Vent equipment degradation,chamber/PM-age association in STEP 2; vent condition not manipulated in DOE,pump-down/leak-up and edge air-pocket mechanism,"Supported, not causally isolated",vent clean before/after + leak test + chamber split
+H3 Roughness/wetting/adhesion,roughness is an unreplicated whole-plot factor,contact-angle versus holding-shear trade-off,"Mechanistically plausible, not verified",Ra/Rz/contact angle/coupon shear with replicated surface lots
+H4 Film tension/platen mechanics,not manipulated in current DOE,force direction and coordinate-system signature defined,Open hypothesis,tension/orientation reversal + pressure/parallelism map
+H5 EMC material history,M02/M03 whole-plot contrast without replicate whole plots,viscosity/gel-time shift reduces process margin,"Modifier supported, causal strength limited",replicated material-lot cross split + rheology
+H6 Measurement bias,recipe lock reduces Void GRR 45.9%→12.2% tolerance,threshold/registration/profilometer method can shift measured CTQ,"Confounding reduced, not eliminated",reference-based comparison if measurement setup changes

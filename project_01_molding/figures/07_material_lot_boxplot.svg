@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<style>text{font-family:Segoe UI,Arial,sans-serif;fill:#172033}.axis{stroke:#94A3B8;stroke-width:1}.grid{stroke:#E2E8F0;stroke-width:1}.small{font-size:13px}.tick{font-size:12px;fill:#475569}.label{font-size:15px;font-weight:600}.title{font-size:24px;font-weight:700}.subtitle{font-size:13px;fill:#64748B}</style>
+<text class="title" x="105" y="38">EMC material-lot comparison</text>
+<text class="subtitle" x="105" y="59">Material genealogy effect</text>
+<line class="axis" x1="105" y1="565" x2="945" y2="565"/>
+<line class="axis" x1="105" y1="565" x2="105" y2="75"/>
+<line class="grid" x1="105" y1="565.0" x2="945" y2="565.0"/>
+<text class="tick" x="95" y="569.0" text-anchor="end">1.2</text>
+<line class="grid" x1="105" y1="467.0" x2="945" y2="467.0"/>
+<text class="tick" x="95" y="471.0" text-anchor="end">1.8</text>
+<line class="grid" x1="105" y1="369.0" x2="945" y2="369.0"/>
+<text class="tick" x="95" y="373.0" text-anchor="end">2.3</text>
+<line class="grid" x1="105" y1="271.0" x2="945" y2="271.0"/>
+<text class="tick" x="95" y="275.0" text-anchor="end">2.9</text>
+<line class="grid" x1="105" y1="173.0" x2="945" y2="173.0"/>
+<text class="tick" x="95" y="177.0" text-anchor="end">3.5</text>
+<line class="grid" x1="105" y1="75.0" x2="945" y2="75.0"/>
+<text class="tick" x="95" y="79.0" text-anchor="end">4.1</text>
+<text class="tick" x="105.0" y="588" text-anchor="middle">0</text>
+<text class="tick" x="273.0" y="588" text-anchor="middle">1</text>
+<text class="tick" x="441.0" y="588" text-anchor="middle">2</text>
+<text class="tick" x="609.0" y="588" text-anchor="middle">3</text>
+<text class="tick" x="777.0" y="588" text-anchor="middle">4</text>
+<text class="tick" x="945.0" y="588" text-anchor="middle">5</text>
+<text class="label" x="525.0" y="625" text-anchor="middle"></text>
+<text class="label" transform="translate(27 320.0) rotate(-90)" text-anchor="middle">edge void pct</text>
+<line x1="273.0" y1="534.30159345627" x2="273.0" y2="392.38138103213964" stroke="#475569"/>
+<rect x="238.0" y="445.57786362139245" width="70" height="67.02009664331104" fill="#DBEAFE" stroke="#2563EB" stroke-width="2"/>
+<line x1="238.0" y1="480.0215106556833" x2="308.0" y2="480.0215106556833" stroke="#DC2626" stroke-width="3"/>
+<text class="tick" x="273.0" y="610" text-anchor="middle">M01</text>
+<line x1="441.0" y1="539.3795791117099" x2="441.0" y2="457.4330804281681" stroke="#475569"/>
+<rect x="406.0" y="474.27188104426756" width="70" height="53.2740878632913" fill="#DBEAFE" stroke="#2563EB" stroke-width="2"/>
+<line x1="406.0" y1="512.400557654732" x2="476.0" y2="512.400557654732" stroke="#DC2626" stroke-width="3"/>
+<text class="tick" x="441.0" y="610" text-anchor="middle">M02</text>
+<line x1="609.0" y1="520.853449367874" x2="609.0" y2="112.65046995834695" stroke="#475569"/>
+<rect x="574.0" y="407.031320787672" width="70" height="76.0933237951042" fill="#DBEAFE" stroke="#2563EB" stroke-width="2"/>
+<line x1="574.0" y1="441.1446514744271" x2="644.0" y2="441.1446514744271" stroke="#DC2626" stroke-width="3"/>
+<text class="tick" x="609.0" y="610" text-anchor="middle">M03</text>
+<line x1="777.0" y1="534.6047951492758" x2="777.0" y2="438.9049614382598" stroke="#475569"/>
+<rect x="742.0" y="477.290907546858" width="70" height="47.27851113421076" fill="#DBEAFE" stroke="#2563EB" stroke-width="2"/>
+<line x1="742.0" y1="499.3016549583222" x2="812.0" y2="499.3016549583222" stroke="#DC2626" stroke-width="3"/>
+<text class="tick" x="777.0" y="610" text-anchor="middle">M04</text>
+</svg>

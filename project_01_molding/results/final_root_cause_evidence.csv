@@ -1,0 +1,7 @@
+rank,cause,level,scope
+1,Thermo-rheology × evacuation margin,Strong,Confirmed only in synthetic DOE
+2,Vacuum/Vent equipment degradation,Medium-Strong,Associative evidence; split test pending
+3,EMC rheology/storage modifier,Medium,Whole-plot replication pending
+4,Roughness/wetting/adhesion,Medium,Mechanistic trade-off; coupon test pending
+5,Film tension/platen mechanics,Weak-Medium,Reversal test pending
+6,Measurement bias,Reduced,After-lock data only

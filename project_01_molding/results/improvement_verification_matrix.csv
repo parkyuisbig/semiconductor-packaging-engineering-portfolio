@@ -1,0 +1,5 @@
+ctq,before_mean,recommended_mean,change_pct,engineering_target,recommended_p95,target_met_by_mean,interpretation
+Edge Void,1.7681937916862858,0.39701296455500956,-77.54697667067435,0.5,0.48334260248578537,True,synthetic confirmation only
+Chip Offset P95,41.12334958631285,16.742094981531775,-59.2881048116176,20.0,18.699792548392757,True,synthetic confirmation only
+Warpage,925.3070497333684,655.5133083941578,-29.157212345561724,750.0,675.7509255601504,True,synthetic confirmation only
+Cycle Time Index,101.55997088536594,104.07202258331728,2.473466343139041,105.0,104.54515161389584,True,synthetic confirmation only

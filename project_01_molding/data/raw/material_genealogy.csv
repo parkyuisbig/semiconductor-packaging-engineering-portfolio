@@ -1,0 +1,5 @@
+emc_lot,viscosity_index,gel_shift_s,moisture_index
+M01,0.98,0.4,0.96
+M02,1.0,0.0,1.0
+M03,1.13,-1.8,1.1
+M04,1.04,-0.5,1.03

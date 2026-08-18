@@ -1,0 +1,20 @@
+{
+  "best_emc": "M02",
+  "best_roughness": "Smooth",
+  "best_vacuum": 4.5,
+  "best_zone": 1.5,
+  "best_speed": 0.85,
+  "best_desirability": 0.8288577779815419,
+  "before_void": 1.6813169911947086,
+  "after_void": 0.41346377110019467,
+  "void_change_pct": -75.40833922064893,
+  "before_offset": 40.626712242757634,
+  "after_offset": 17.04839821592419,
+  "offset_change_pct": -58.036480741895765,
+  "before_warpage": 930.6187359520931,
+  "after_warpage": 673.9412752498479,
+  "warpage_change_pct": -27.581376861024058,
+  "before_cycle": 101.6888528014051,
+  "after_cycle": 103.80190589273566,
+  "cycle_change_pct": 2.077959415529328
+}

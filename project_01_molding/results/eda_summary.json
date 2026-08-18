@@ -1,0 +1,16 @@
+{
+  "edge_void_mean": 1.7484268364470152,
+  "chip_offset_p95": 41.27116091078991,
+  "warpage_p95": 920.9595650757831,
+  "cycle_index_p95": 101.49215150979465,
+  "edge_center_ratio": 7.617638552391278,
+  "worst_shot": "S044",
+  "worst_chamber": "EQ02_C2",
+  "worst_material": "M03",
+  "chamber_eta2": 0.3790627916878115,
+  "corr_margin_edge_void": -0.7780382671818107,
+  "corr_pump_edge_void": 0.8022058488662754,
+  "corr_viscosity_edge_void": 0.7066182745790084,
+  "void_vector_alignment": 0.9431719431480567,
+  "model_r2": 0.9011179134514538
+}

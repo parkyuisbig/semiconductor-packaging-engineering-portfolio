@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<style>text{font-family:Segoe UI,Arial,sans-serif;fill:#172033}.axis{stroke:#94A3B8;stroke-width:1}.grid{stroke:#E2E8F0;stroke-width:1}.small{font-size:13px}.tick{font-size:12px;fill:#475569}.label{font-size:15px;font-weight:600}.title{font-size:24px;font-weight:700}.subtitle{font-size:13px;fill:#64748B}</style>
+<text class="title" x="105" y="38">Improvement versus side-effect matrix</text>
+<text class="subtitle" x="105" y="59">Engineering trade-offs that remain before real-equipment confirmation</text>
+<text class="label" x="70" y="90">Change</text>
+<text class="label" x="315" y="90">Primary benefit</text>
+<text class="label" x="575" y="90">Possible side effect</text>
+<rect x="55" y="112" width="890" height="76" rx="6" fill="#F8FAFC" stroke="#CBD5E1"/>
+<text class="small" x="70" y="137">Lower vacuum absolute pressure</text>
+<text class="small" x="315" y="137">residual gas/void risk 감소</text>
+<text class="small" x="575" y="136">evacuation time, pump load, volatile/outgassing </text>
+<text class="small" x="575" y="157">response 변화</text>
+<text class="tick" x="70" y="167">Check: Cycle Time Index와 raw vacuum trace 동시 비교</text>
+<rect x="55" y="204" width="890" height="76" rx="6" fill="#EFF6FF" stroke="#CBD5E1"/>
+<text class="small" x="70" y="229">Smaller heater-zone range</text>
+<text class="small" x="315" y="229">viscosity/cure spatial uniformity 향상</text>
+<text class="small" x="575" y="228">zone tuning 과정의 thermal lag 또는 local cure 차이</text>
+<text class="tick" x="70" y="259">Check: Warpage와 edge/center coupon temperature</text>
+<rect x="55" y="296" width="890" height="76" rx="6" fill="#F8FAFC" stroke="#CBD5E1"/>
+<text class="small" x="70" y="321">Lower closing speed</text>
+<text class="small" x="315" y="321">flow drag와 offset 감소</text>
+<text class="small" x="575" y="320">takt 증가, 지나치게 느릴 경우 gel margin 감소</text>
+<text class="tick" x="70" y="351">Check: Cycle time과 process margin을 함께 확인</text>
+<rect x="55" y="388" width="890" height="76" rx="6" fill="#EFF6FF" stroke="#CBD5E1"/>
+<text class="small" x="70" y="413">Smooth release-film condition</text>
+<text class="small" x="315" y="413">scenario wetting/void 개선</text>
+<text class="small" x="575" y="412">textured 대비 interface holding shear 감소 가능</text>
+<text class="tick" x="70" y="443">Check: Chip Offset P95와 coupon shear</text>
+<rect x="55" y="480" width="890" height="76" rx="6" fill="#F8FAFC" stroke="#CBD5E1"/>
+<text class="small" x="70" y="505">Baseline M03 → M02 scenario</text>
+<text class="small" x="315" y="505">viscosity/gel margin 개선</text>
+<text class="small" x="575" y="504">material-lot effect와 chamber effect confounding</text>
+<text class="tick" x="70" y="535">Check: replicated lot cross-split and rheology</text>
+</svg>

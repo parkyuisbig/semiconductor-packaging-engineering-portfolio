@@ -1,0 +1,15 @@
+{
+  "void_effect_a": 0.48084983874209575,
+  "void_effect_b": 0.990567621721959,
+  "void_effect_ab": 0.1174322751272241,
+  "void_ab_ci_low": -0.09841003968874285,
+  "void_ab_ci_high": 0.33327458994319104,
+  "selected_grid_total": 567,
+  "selected_grid_pass": 3,
+  "vacuum_min": 4.5,
+  "vacuum_max": 4.75,
+  "zone_min": 1.5,
+  "zone_max": 1.5,
+  "speed_min": 0.85,
+  "speed_max": 0.9
+}

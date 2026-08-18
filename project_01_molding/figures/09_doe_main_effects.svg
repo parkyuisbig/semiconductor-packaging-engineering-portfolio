@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="100%" height="100%" fill="#FFFFFF"/>
+<style>text{font-family:Segoe UI,Arial,sans-serif;fill:#172033}.axis{stroke:#94A3B8;stroke-width:1}.grid{stroke:#E2E8F0;stroke-width:1}.small{font-size:13px}.tick{font-size:12px;fill:#475569}.label{font-size:15px;font-weight:600}.title{font-size:24px;font-weight:700}.subtitle{font-size:13px;fill:#64748B}</style>
+<text class="title" x="105" y="38">DOE main effects</text>
+<text class="subtitle" x="105" y="59">High − Low effect, normalized within response; positive = worse</text>
+<line class="axis" x1="105" y1="565" x2="945" y2="565"/>
+<line class="axis" x1="105" y1="565" x2="105" y2="75"/>
+<line class="grid" x1="105" y1="565.0" x2="945" y2="565.0"/>
+<text class="tick" x="95" y="569.0" text-anchor="end">-1.1</text>
+<line class="grid" x1="105" y1="467.0" x2="945" y2="467.0"/>
+<text class="tick" x="95" y="471.0" text-anchor="end">-0.66</text>
+<line class="grid" x1="105" y1="369.0" x2="945" y2="369.0"/>
+<text class="tick" x="95" y="373.0" text-anchor="end">-0.22</text>
+<line class="grid" x1="105" y1="271.0" x2="945" y2="271.0"/>
+<text class="tick" x="95" y="275.0" text-anchor="end">0.22</text>
+<line class="grid" x1="105" y1="173.0" x2="945" y2="173.0"/>
+<text class="tick" x="95" y="177.0" text-anchor="end">0.66</text>
+<line class="grid" x1="105" y1="75.0" x2="945" y2="75.0"/>
+<text class="tick" x="95" y="79.0" text-anchor="end">1.1</text>
+<text class="tick" x="105.0" y="588" text-anchor="middle">0</text>
+<text class="tick" x="273.0" y="588" text-anchor="middle">1.2</text>
+<text class="tick" x="441.0" y="588" text-anchor="middle">2.4</text>
+<text class="tick" x="609.0" y="588" text-anchor="middle">3.6</text>
+<text class="tick" x="777.0" y="588" text-anchor="middle">4.8</text>
+<text class="tick" x="945.0" y="588" text-anchor="middle">6</text>
+<text class="label" x="525.0" y="625" text-anchor="middle">Factor</text>
+<text class="label" transform="translate(27 320.0) rotate(-90)" text-anchor="middle">Normalized effect</text>
+<line x1="105" y1="320.0" x2="945" y2="320.0" stroke="#334155" stroke-width="2"/>
+<rect x="211.0" y="211.8818152079303" width="30" height="108.11818479206971" fill="#DC2626" opacity="0.85"/>
+<rect x="249.0" y="260.8263938846552" width="30" height="59.173606115344796" fill="#2563EB" opacity="0.85"/>
+<text class="tick" x="245.0" y="600" text-anchor="middle">Vacuum</text>
+<text class="tick" x="245.0" y="616" text-anchor="middle">base P</text>
+<rect x="351.0" y="97.27272727272731" width="30" height="222.7272727272727" fill="#DC2626" opacity="0.85"/>
+<rect x="389.0" y="97.27272727272731" width="30" height="222.7272727272727" fill="#2563EB" opacity="0.85"/>
+<text class="tick" x="385.0" y="600" text-anchor="middle">Zone</text>
+<text class="tick" x="385.0" y="616" text-anchor="middle">range</text>
+<rect x="491.0" y="265.01146749042186" width="30" height="54.988532509578135" fill="#DC2626" opacity="0.85"/>
+<rect x="529.0" y="244.52441390218422" width="30" height="75.47558609781578" fill="#2563EB" opacity="0.85"/>
+<text class="tick" x="525.0" y="600" text-anchor="middle">Closing</text>
+<text class="tick" x="525.0" y="616" text-anchor="middle">speed</text>
+<rect x="631.0" y="161.07225398903387" width="30" height="158.92774601096613" fill="#DC2626" opacity="0.85"/>
+<rect x="669.0" y="161.52456493991144" width="30" height="158.47543506008856" fill="#2563EB" opacity="0.85"/>
+<text class="tick" x="665.0" y="600" text-anchor="middle">EMC</text>
+<text class="tick" x="665.0" y="616" text-anchor="middle">M03</text>
+<rect x="771.0" y="234.08467247280527" width="30" height="85.91532752719473" fill="#DC2626" opacity="0.85"/>
+<rect x="809.0" y="320.0" width="30" height="159.27764135814675" fill="#2563EB" opacity="0.85"/>
+<text class="tick" x="805.0" y="600" text-anchor="middle">Textured</text>
+<text class="tick" x="805.0" y="616" text-anchor="middle">surface</text>
+<rect x="720" y="44" width="16" height="12" fill="#DC2626"/><text class="small" x="742" y="55">Edge void</text>
+<rect x="830" y="44" width="16" height="12" fill="#2563EB"/><text class="small" x="852" y="55">Offset P95</text>
+</svg>

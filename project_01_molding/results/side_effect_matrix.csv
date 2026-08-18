@@ -1,0 +1,6 @@
+change,primary_benefit,possible_side_effect,project_check,decision
+Lower vacuum absolute pressure,residual gas/void risk 감소,"evacuation time, pump load, volatile/outgassing response 변화",Cycle Time Index와 raw vacuum trace 동시 비교,Benefit with cycle-time trade-off
+Smaller heater-zone range,viscosity/cure spatial uniformity 향상,zone tuning 과정의 thermal lag 또는 local cure 차이,Warpage와 edge/center coupon temperature,Preferred; local temperature verification needed
+Lower closing speed,flow drag와 offset 감소,"takt 증가, 지나치게 느릴 경우 gel margin 감소",Cycle time과 process margin을 함께 확인,Use only inside robust combinations
+Smooth release-film condition,scenario wetting/void 개선,textured 대비 interface holding shear 감소 가능,Chip Offset P95와 coupon shear,"Surface window, not universal direction"
+Baseline M03 → M02 scenario,viscosity/gel margin 개선,material-lot effect와 chamber effect confounding,replicated lot cross-split and rheology,Candidate modifier; not a procurement conclusion
